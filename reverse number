@@ -1,0 +1,65 @@
+public class Main
+{
+	public static void main(String[] args) 
+	{
+		Animal a = new Animal();
+		
+		System.out.println(a.eat());
+	//	a.sleep();
+		
+
+	}
+}
+
+
+
+
+onlinegdb.com/q__RxgBgZ
+               12   
+
+
+Java Interview Questions for Freshers
+What is Java?
+What are the features of Java?
+What is JVM?
+What is the difference between JDK, JRE, and JVM?
+What is the difference between a class and an object?
+What is object-oriented programming?
+What are the four principles of OOP?
+What is inheritance?
+What is encapsulation?
+What is polymorphism?
+What is abstraction?
+What are access modifiers?
+What are static variables and methods?
+What are the final variables and methods?
+What is a constructor?
+What are the different types of variables in Java?
+What is an array?
+What are control structures in Java?
+What is exception handling?
+What are the different types of exceptions in Java?
+What is the difference between a HashSet and a TreeSet?
+How can you implement a Stack using an Array?
+What is the difference between a shallow copy and a deep copy in Java?
+How do you reverse a linked list in Java?
+What is the difference between a String, StringBuilder, and StringBuffer in Java?
+What is a binary search tree? How can you implement one in Java?
+What is the difference between an abstract class and an interface in Java?
+How do you handle multiple exceptions in Java?
+How do you implement a merge sort algorithm in Java?
+Provide an example of Polymorphism.
+What is a lambda expression in Java? Provide an example.
+What is the difference between a private and a protected method in Java?
+How do you implement a bubble sort algorithm in Java?
+What is the difference between a while loop and a do-while loop in Java?
+How do you implement a binary search algorithm in Java?
+What is a thread in Java? Provide an example of how to create a thread.
+What is the difference between a static and non-static variable in Java?
+What is a deadlock in Java? How can you prevent it?
+What is an interface in Java? Provide an example.
+How do you implement a quick sort algorithm in Java?
+
+
+
+
